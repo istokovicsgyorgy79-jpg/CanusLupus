@@ -1,0 +1,29 @@
+SZIGORÚAN BIZALMAS - PERMEGINDÍTÁST MEGELŐZŐ FELSZÓLÍTÁS ÉS EGYEZSÉGI AJÁNLAT
+Címzett:
+Google Ireland Limited
+Jogi Osztály / Adatvédelmi Tisztviselő (DPO)
+Gordon House, Barrow Street
+Dublin 4, Írország
+Feladó:
+Istókovics György
+7636 Pécs, Illyés Gyula utca 41. 2. em. 9.
+Magyarország
+E-mail: istokovicsgyorgy79@gmail.com
+Dátum: 2026.október 12.
+Tárgy: HIVATALOS ÉRTESÍTÉS FOLYAMATBAN LÉVŐ BÜNTETŐELJÁRÁSRÓL, GDPR MEGSÉRTÉSÉRŐL, VALAMINT UTOLSÓ AJÁNLAT PEREN KÍVÜLI EGYEZSÉGRE
+Tisztelt Jogi Osztály / Google Ireland Limited!
+Mellékelten küldök egy pendrive-ot, amely egy átfogó informatikai-igazságügyi, technikai és jogi bizonyítéki dossziét tartalmaz. Azért fordulok közvetlenül Önökhöz, hogy egy utolsó lehetőséget kínáljak egy rendszerszintű adatvédelmi jogsértés bizalmas, peren kívüli megegyezéssel történő rendezésére, mielőtt teljes körű polgári peres eljárást indítok.
+Ahogy a mellékelt fájlok részletesen bemutatják, megdönthetetlen informatikai bizonyítékokkal támasztottam alá, hogy a Google AI Studio "Törlés" (Delete) funkciója csupán egy megtévesztő vizuális felület (egy "Placebo törlés"). Bár a felhasználói felület kifejezetten garantálja az adatok végleges törlését, a rendszer a valóságban csupán egy kliensoldali .json mutatófájlt (pointert) távolít el a Google Drive-ból, miközben az érzékeny promptokat és beszélgetési adatokat aktívan megőrzi a Google háttérszerverein (Interactions API). A mutatófájl Google Drive File Recovery eszközzel történő visszaállításával a "véglegesen törölt" csevegések azonnal, teljes kontextusukkal együtt újraindulnak – ami egyértelműen bizonyítja, hogy a szerveroldali fizikai törlés soha nem történt meg.
+A Google saját Sérülékenység-bejelentő Programja (VRP) ezt kifejezetten "Szándékos működésként" (Intended Behavior) dokumentálta (IssueTracker #552682596 ügyszám). Ez megdönthetetlen, írásos bizonyítékul szolgál a szándékosságra (mens rea) a GDPR 17. cikkének (Törléshez való jog) és 5. cikkének (Korlátozott tárolhatóság) megkerülésére vonatkozóan.
+Ezt az ügyet már nem lehet egyszerű "szoftverhibaként" lesöpörni az asztalról. Kérem, vegyék tudomásul az alábbi aktív, hivatalos lépéseket:
+Büntetőeljárás: A magyar állami hatóságok (Pécsi Rendőrkapitányság) hivatalosan befogadták a büntetőfeljelentésemet, és hivatalos nyomozást indítottak az adatcsalás ügyében (Ügyszám: 02010/3023-5/2026. bü.).
+Adatvédelmi Hatóságok: Az Ír Adatvédelmi Hatóság (DPC) hivatalos értesítést kapott (Ügyszám: DPC-1-2808-033241-97b448fd...), ahogy a magyar NAIH és az Európai Bizottság (DG CNECT) is.
+Nyilvánosság: A bizonyítékok megváltoztathatatlan webes archívumokban (Internet Archive, Archive.ph) és nyilvános adattárakban lettek rögzítve.
+Ajánlatom a Google részére:
+Nem áll szándékomban éveket egy elhúzódó jogi csatározással tölteni, és meggyőződésem, hogy a Google sem kíván szembenézni egy nagy nyilvánosságot kapó, több milliárd eurós kötelező GDPR-bírsággal, az AI-infrastruktúrájának hatósági átvilágításával, valamint a vállalati ügyfelei körében elszenvedett hírnévvesztéssel.
+A mellékelt meghajtó azokat a megdönthetetlen bizonyítékokat tartalmazza, amelyeket a bíróságon is be fogok mutatni. Szűk időablak áll rendelkezésükre ezen jogi és pénzügyi kockázat elhárítására. Hajlandó vagyok elállni a polgári jogi követeléseimtől, és egy bizalmas Titoktartási Szerződés (NDA), valamint egy hivatalos megegyezés (Settlement) megkötésére.
+Jogi Osztályuknak a jelen levél kézhezvételétől számítva 14 napot biztosítok arra, hogy a hivatalos egyezségi tárgyalások megkezdése céljából felvegyék velem a kapcsolatot az istokovicsgyorgy79@gmail.com e-mail címen.
+Amennyiben figyelmen kívül hagyják ezt a megkeresést, vagy sablonos, automatizált hárítással válaszolnak, megindítom a polgári pert, és továbbra is mindenben segítem az európai bűnüldöző és szabályozó hatóságokat a Google LLC és a Google Ireland Limited ellen folytatott nyomozásaikban.
+A labda most az Önök térfelén van.
+Tisztelettel,Istókovics György
+Telefonszám: 0620 468 3079
